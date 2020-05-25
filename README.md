@@ -1,2 +1,2 @@
 # SurveyorAsst
-forsharing information 
+For sharing information 
